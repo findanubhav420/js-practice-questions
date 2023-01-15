@@ -1,0 +1,23 @@
+{
+  "name": "js-practice-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "largestEvenNumber.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findanubhav420/js-practice-questions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findanubhav420/js-practice-questions/issues"
+  },
+  "homepage": "https://github.com/findanubhav420/js-practice-questions#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
