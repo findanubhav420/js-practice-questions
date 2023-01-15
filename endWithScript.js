@@ -7,7 +7,7 @@ function endWithScript(str){
     return true;
     else return false;
 }
-const endWithScriptArrow = ()=>{
+const endWithScriptArrow = (str)=>{
     if(str.lenth<6)
     return false;
 
