@@ -7,7 +7,7 @@ function incrementedString(input){
         else if(input[index]=='Z')
         updatedString+='A'
         else
-        updatedString=updatedString.concat(String.fromCharCode(input[index].charCodeAt(index) + 1))
+        updatedString=updatedString+String.fromCharCode(input.charCodeAt(index) + 1)
     }
     
     return updatedString;
