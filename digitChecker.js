@@ -6,7 +6,7 @@ function digitChecker(number){
         // number=number/10;
         
         let current_digit=number%10
-        number=(number/10);
+        number=parseInt(number/10);
         if(last_digit!=current_digit)
         {
             return false;
