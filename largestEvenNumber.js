@@ -11,7 +11,7 @@ function largestEvenNumber(numbers){
     return res;
 }
 
-const largestEvenNumberarrow= ()=>{
+const largestEvenNumberarrow= (numbers)=>{
     let res=-1;
     // numbers.forEach(LargestEvenNumber);
 
